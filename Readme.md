@@ -12,3 +12,5 @@ Valoración:
 * Realización de commits por cada paso que se realice (10 puntos)
 * Comentarios en el código (5 puntos)
 * Readme justificando la toma de desición y describiendo los beneficios aportados por el cambio de código (15 puntos)
+
+# Inicio Examen 
